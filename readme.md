@@ -23,13 +23,7 @@ This project demonstrates a complete pipeline for multi-class sentiment analysis
 ---
 
 ## Project Structure
-.
-├── app.py # Streamlit frontend
-├── api.py # Flask backend for model prediction
-├── final_model/ # Directory containing saved tokenizer and model
-├── requirements.txt # Required dependencies
-├── README.md # Project documentation (this file)
-└── fine-tuning-sota-transformers-for-multi-class-senti.ipynb # Jupyter notebook with training code
+<pre><code> ``` . ├── app.py # Streamlit frontend ├── api.py # Flask backend for model prediction ├── final_model/ # Directory containing saved tokenizer and model ├── requirements.txt # Required dependencies ├── README.md # Project documentation (this file) └── fine-tuning-sota-transformers-for-multi-class-senti.ipynb # Jupyter notebook with training code ``` </code></pre>
 
 ---
 
